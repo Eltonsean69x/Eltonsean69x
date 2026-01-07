@@ -1,4 +1,6 @@
-Hello, I’m Sean
+Hello, I’m Sean.
+
+
 I’m interested in collaboration on multiple projects as well as designing helpful tools for Engineers mainly in the Data Center Industry.
 
 <!---
